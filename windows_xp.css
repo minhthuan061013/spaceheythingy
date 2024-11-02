@@ -3,7 +3,7 @@
 }
 
 body {
-	background-image: url('https://raw.githubusercontent.com/minhthuan061013/spaceheythingy/refs/heads/main/image.jpg');
+	background-image: url('https://s3.amazonaws.com//depot.pacdudegames.com/spacehey/bliss.jpg');
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -125,7 +125,7 @@ main {
 	-moz-background-clip: padding;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
-	content: "🙂 Mood";
+	content: "ðŸ™‚ Mood";
 	display: block;
 	padding: .5em;
 	border: 2px solid #1B44B8;
@@ -176,7 +176,7 @@ nav:after {
 	font-size: 0;
 }
 .profile .contact .heading h4:after {
-	content: "💬 start";
+	content: "ðŸ’¬ start";
 	font-size: 1.4rem;
 	font-family: sans-serif;
 	font-weight: bold;
@@ -292,7 +292,7 @@ nav:after {
 	-moz-background-clip: padding;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
-	content: "📝 Notepad";
+	content: "ðŸ“ Notepad";
 	display: block;
 	padding: .5em;
 	border: 2px solid #1B44B8;
@@ -327,7 +327,7 @@ nav:after {
 	color: #FFF;
 }
 .profile .right .blurbs .heading h4:before{
-	content: "💻 ";
+	content: "ðŸ’» ";
 }
 .profile .right .comments-table{
 	height:300px;
